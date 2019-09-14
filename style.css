@@ -13,11 +13,6 @@ h1 {
 h2 {
     font-size: 1.5em;
     text-decoration: underline;
-    border-style: dashed;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: red;
 }
 
 table.center {
@@ -31,4 +26,10 @@ ul.nav {
 ul.nav li { 
     display: inline-block; 
 }
+a:link {
+    color: blue;
+}
 
+a:visited {
+    color: purple;
+}
