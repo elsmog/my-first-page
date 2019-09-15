@@ -1,6 +1,6 @@
 body {
     font-size: 14px;
-    font-family: georgia, helvetica, serif;
+    font-family: avenir, helvetica, serif;
     color: navy;
     letter-spacing: .1em;
     word-spacing: .1em;
@@ -8,11 +8,14 @@ body {
     text-align: center;
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
+    font-family: georgia, helvetica, serif;
 }
 h2 {
     font-size: 1.5em;
     text-decoration: underline;
+    font-family: georgia, helvetica, serif;
+
 }
 
 table.center {
